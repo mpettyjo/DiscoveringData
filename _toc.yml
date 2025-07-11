@@ -1,4 +1,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: Yr8_AnimalTraits_BlackBox.ipynb
+- file: AnimalTraits/Yr8_AnimalTraits_BlackBox.ipynb
