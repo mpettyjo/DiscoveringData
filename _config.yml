@@ -7,9 +7,8 @@ execute:
 # Information about where the book exists on the web
 repository:
   url                       : https://github.com/mpettyjo/DiscoveringData.git  # Online location of your book
-  path_to_book              : path/to/book  # Optional path to your book, relative to the repository root
-  branch                    : master  # Which branch of the repository should be used when creating links (optional)
+  branch                    : main  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
   thebe                  : true
-  binderhub_url: "https://mybinder.org"  # The URL for your BinderHub (e.g., https://mybinder.org)
+  binderhub_url: https://mybinder.org/v2/gh/mpettyjo/DiscoveringData.git/main  # The URL for your BinderHub (e.g., https://mybinder.org)
