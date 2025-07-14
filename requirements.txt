@@ -6,3 +6,4 @@ ipywidgets
 IPython
 jupyterlab_widgets
 jupyterlab_hide_code
+voila
