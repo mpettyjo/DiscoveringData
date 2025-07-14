@@ -4,5 +4,4 @@ scipy
 matplotlib
 ipywidgets
 IPython
-voila
-
+jupyterlab_widgets
