@@ -5,4 +5,5 @@ matplotlib
 ipywidgets
 IPython
 jupyterlab_widgets
+itables
 voila
