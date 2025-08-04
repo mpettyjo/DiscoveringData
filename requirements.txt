@@ -7,4 +7,3 @@ IPython
 jupyterlab_widgets
 itables
 voila
-itables
