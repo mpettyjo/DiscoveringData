@@ -6,3 +6,4 @@ ipywidgets
 IPython
 jupyterlab_widgets
 voila
+itables
